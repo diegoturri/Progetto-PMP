@@ -34,7 +34,7 @@ Per effettuare invece un test di riconoscimento del dolore bisogna prima addestr
   
   3- inserire le immagini del database della repository che si vogliono utilizzare nella cartella /facial_expressions/images del Python Notebook
   
-  4- utilizzare il programma java all'interno della repository per estrarre i nomi di tutte le immagini scelte in precedenza (basta cambiare il path di estrazione
+  4- utilizzare il programma java all'interno del progetto Intellij Extractor.zip per estrarre i nomi di tutte le immagini scelte in precedenza (basta cambiare il path di estrazione
   all'interno del programma). Il risultato va salvato in un nuovo file chiamato pain.txt
   
   5- avviare il passaggio 3 utilizzando come file di estrazione il file .txt corrispondente all'espressione da imparare contenuto in /facial_expressions/ quindi per 
