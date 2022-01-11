@@ -1,5 +1,7 @@
 # Progetto-PMP
 
+Il file Extractor.zip è stato salvato da un progetto Intellij
+
 Per effettuare un test di riconoscimento delle espressioni facciali più comuni:
 
   1- avviare il passaggio 1 e 2
