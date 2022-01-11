@@ -36,7 +36,7 @@ Per effettuare un test di riconoscimento delle espressioni facciali più comuni:
   8- avviare il passaggio 7. Se si ha utilizzato una nuova immagine si deve modificare il percorso di selezione immagine (questo passaggio è adibito alla sola
   visualizzazione del risultato)
   
-  
+ -
   
 Per effettuare invece un test di riconoscimento del dolore bisogna prima addestrarlo usando il database contenuto nella repository quindi non interno al Python Notebook (servirà anche un programma java di supporto):
 
