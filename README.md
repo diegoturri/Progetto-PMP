@@ -1,7 +1,9 @@
 # Progetto-PMP
 
 Per effettuare un test di riconoscimento delle espressioni facciali più comuni:
+
   1- avviare il passaggio 1 e 2
+  
   3- il database delle espressioni più comuni è già interno al Python Notebook quindi non c'è bisogno di aggiungerne
   5- avviare il passaggio 3 utilizzando come file di estrazione il file .txt corrispondente all'espressione da imparare contenuto in /facial_expressions/ quindi per 
   esempio "anger.txt"
