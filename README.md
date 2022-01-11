@@ -10,6 +10,9 @@ Valentina Lorè  910890
 
 Diego Turri     923455
 
+-
+-
+-
 
 Per effettuare un test di riconoscimento delle espressioni facciali più comuni:
 
@@ -62,5 +65,8 @@ Per effettuare invece un test di riconoscimento del dolore bisogna prima addestr
   9- avviare il passaggio 7. Se si ha utilizzato una nuova immagine si deve modificare il percorso di selezione immagine (questo passaggio è adibito alla sola
   visualizzazione del risultato)
   
+ -
+ -
+ -
  
  Il file Extractor.zip è stato esportato da un progetto Intellij
