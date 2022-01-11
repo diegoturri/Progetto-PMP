@@ -1,4 +1,12 @@
 # Progetto-PMP
+
+Partecipanti:
+Greta Viganò    909779
+Valeria Cutrì   922860
+Valentina Lorè  910890
+Diego Turri     923455
+
+
 Per effettuare un test di riconoscimento delle espressioni facciali più comuni:
 
   1- avviare il passaggio 1 e 2
